@@ -6,3 +6,6 @@ const express = require("express");
 const app = express();
 const port =1234;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
